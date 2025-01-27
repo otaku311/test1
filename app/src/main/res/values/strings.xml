@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2021_KIZUNA_AI</string>
+    <string name="title_activity_video_player">VideoPlayerActivity</string>
+    <string name="title_activity_date_picker">DatePickerActivity</string>
+</resources>
